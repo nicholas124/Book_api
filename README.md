@@ -1,3 +1,24 @@
+The Lumen API package is meant to provide you, the developer, with a set of tools to help you easily and quickly build your own API by following through some of the steps implemented in this repositor. While the goal of this repo is to display my api(lumen) and php coding capability. It can used as a stepping stone for those looking to find solutions as you build your api.
+
+In this project i have solved some unquie problems i was faced with and i will attach a blog link just to share how i worked around some of my challeges.
+
+# Features
+
+Some of the features include:
+
+* Create,update,delete and display (BOOKS) 
+* Create,update,delete and display (AUTHORS)
+* Create,update,delete and display (CHARACTERS)
+* Create,update,delete and display (COMMENTS)
+* Uploaded to heroku
+* API documentation
+
+
+# DOCUMENTATION
+An [Books API documentation](https://documenter.getpostman.com/view/12172802/UVyn3eZe "Books API documentation"). This documentation can be run in postman to test the api which has been deployed to heroku.
+
+
+
 # Lumen PHP Framework
 
 [![Build Status](https://travis-ci.org/laravel/lumen-framework.svg)](https://travis-ci.org/laravel/lumen-framework)
